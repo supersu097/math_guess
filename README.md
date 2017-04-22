@@ -10,7 +10,7 @@ A tool to compute an interesting math guess
 optional arguments:
   -h, --help            show this help message and exit
   -i INITIALNUM, --initialNum INITIALNUM
-                        The number(>=10) u wanna computer at the beginning
+                        The number(>=10) u wanna compute at the beginning
 ```
 
 # Background
