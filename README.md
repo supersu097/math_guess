@@ -19,14 +19,11 @@ I discoveried this math law since i was in primary school, as for which grade i 
 # Description
 
 At first, i show u two screenshots as below.  
-<img src="screenshot/initial_stage.png" width="856" height="282">
-<img src="screenshot/incredible_stage.png" width="856" height="282">
+<img src="screenshot/initial_stage.png">
+<img src="screenshot/incredible_stage.png">
 
 
 # Guess
 I believe u already have a good understanding about what math law it is via the above two screenshots.
-And coz i found whatever how much huge the integer i specify as the initial computing number, such math law can still apply on that number. So now i propose such below math guess:  
+And coz i have found whatever how much huge the integer i specify as the initial computing number, such math law can still apply on that number. So now i propose such below math guess:  
 For any integer which is equal or larger than the number 10 can all apply on the above math law.
-
-
-
