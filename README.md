@@ -1,7 +1,7 @@
 # math_guess
-A tool to compute an interesting math guess
+An interesting math law i found
 
-# Tool usage
+# Test tool how-to
 ```
 usage: math_guess.py [-h] -i INITIALNUM
 
