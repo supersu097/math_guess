@@ -14,7 +14,7 @@ optional arguments:
 ```
 
 # Background
-I discoveried this math law since i was in primary school, as for which grade i remembered it was around second or third. But at that moment, i just manully calculate this within the number of 20. Then when i was in senir high school, i remembered it was manully calculated to the number 1000 or so. Now i use the computer program to help me automatically compute this math guess.
+I discoveried this math law since i was in primary school, as for which grade i remembered it was around second or third. But at that moment, i just manully calculate this within the number 20. Then when i was in senir high school, i remembered it was manully calculated to the number 1000 or so. Now i use the computer program to help me automatically compute this math guess.
 
 # Description
 
